@@ -2,26 +2,8 @@
   {
     "img": "https://s101.divarcdn.com/static/pictures/1682952480/wYbonX7T.jpg",
     "name": "مبل راحتی هیمالیا",
-    "bio": "۲۵،۰۰۰،۰۰۰"
-  },
-  {
-    "img": "https://s101.divarcdn.com/static/pictures/1682952480/wYbonX7T.jpg",
-    "name": "مبل راحتی هیمالیا",
-    "bio": "۲۵،۰۰۰،۰۰۰"
-  },
-  {
-    "img": "https://s101.divarcdn.com/static/pictures/1682952480/wYbonX7T.jpg",
-    "name": "مبل راحتی هیمالیا",
-    "bio": "۲۵،۰۰۰،۰۰۰"
-  },
-  {
-    "img": "https://s101.divarcdn.com/static/pictures/1682952480/wYbonX7T.jpg",
-    "name": "مبل راحتی هیمالیا",
-    "bio": "۲۵،۰۰۰،۰۰۰"
-  },
-  {
-    "img": "https://s101.divarcdn.com/static/pictures/1682952480/wYbonX7T.jpg",
-    "name": "مبل راحتی هیمالیا",
-    "bio": "۲۵،۰۰۰،۰۰۰"
+    "bio": "۲۵،۰۰۰،۰۰۰",
+    "Condition": "در حد نو",
+    "bio1": "رنگ بندی بیشتر از ۸۰ رنگ\nپایه چوبی و فلزی\nفروش عمده و تکی\nحضوری و غیرحضوری\nآماده همکاری با نمایشگاه داران\nارسال به تمام نقاط\nمتریال وارداتی اصل شرکتی\nهمراه با ضمانت\nجهت ثبت سفارش و خرید و دیدن مدلهای دیگه و دریافت لوکیشن تماس بگیرید."
   }
 ]
